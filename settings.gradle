@@ -1,0 +1,6 @@
+/*
+include ':VuforiaWrapper'
+include ':UnityProject'
+*/
+include ':app'
+rootProject.name = "ARCard"
