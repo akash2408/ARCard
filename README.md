@@ -1,5 +1,6 @@
 # ARCard
  This is an augamented reality card for android app which show the information related on the card.
+ <img src="app/src/main/res/drawable/GIF-210127_025218.gif">
  
  # Add Module 
 1. Add VuforiaWrapper.aar'
